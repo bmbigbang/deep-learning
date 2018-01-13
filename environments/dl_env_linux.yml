@@ -78,7 +78,6 @@ dependencies:
 - conda-forge::python-engineio=1.0.0=py35_0
 - conda-forge::python-socketio=1.5.1=py35_0
 - conda-forge::pytz=2016.10=py35_0
-- conda-forge::pyzmq=16.0.2=py35_1
 - conda-forge::qt=4.8.7=7
 - conda-forge::qtconsole=4.2.1=py35_1
 - conda-forge::readline=6.2=0
